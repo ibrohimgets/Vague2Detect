@@ -13,9 +13,9 @@ This project was developed as part of research in Commonsense-Guided Open-World 
 ## Architecture
 
 <p align="center">
-  <img src="/home/iibrohimm/project/try/Vague2Detect/docs/arch.png" alt="Vague2Detect Architecture" width="800"/>
+  <img src="docs/arch.png" alt="Vague2Detect Architecture" width="800"/>
 </p>
----
+
 
 ## Features
 - Handles ambiguous prompts (e.g., "something to cut food with" → knife).  
