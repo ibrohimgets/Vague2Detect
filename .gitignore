@@ -1,0 +1,22 @@
+# Ignore big datasets
+bench/
+data/*
+!data/images/      # keep only sample/demo images
+
+# Ignore models and checkpoints
+models/
+experiments/bert/new_bert*/
+experiments/bert/new_bert_st/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Ignore output logs except small results
+results/*
+!results/*.jpg
+!results/*.png
+
+# Ignore system files
+__pycache__/
+.ipynb_checkpoints/

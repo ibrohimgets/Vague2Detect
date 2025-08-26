@@ -1,0 +1,402 @@
+{
+  "knife": {
+    "visual_description": "A sharp metal blade with a handle.",
+    "usage": "Used for cutting and slicing food."
+  },
+  "cutting board": {
+    "visual_description": "A flat board, usually wood or plastic.",
+    "usage": "Used as a surface for cutting food."
+  },
+  "peeler": {
+    "visual_description": "A small tool with a sharp edge.",
+    "usage": "Used to remove skin from fruits and vegetables."
+  },
+  "grater": {
+    "visual_description": "A metal tool with small sharp holes.",
+    "usage": "Used to shred or grate food like cheese or carrots."
+  },
+  "tongs": {
+    "visual_description": "Two connected arms with gripping ends.",
+    "usage": "Used to pick up and turn food without touching it."
+  },
+  "spatula": {
+    "visual_description": "A flat, wide cooking tool.",
+    "usage": "Used to flip, spread, or stir food."
+  },
+  "whisk": {
+    "visual_description": "A handle with looped wires at the end.",
+    "usage": "Used to mix ingredients and add air."
+  },
+  "ladle": {
+    "visual_description": "A deep spoon with a long handle.",
+    "usage": "Used for serving soup or liquids."
+  },
+  "colander": {
+    "visual_description": "A bowl with holes in it.",
+    "usage": "Used to drain water from food."
+  },
+  "strainer": {
+    "visual_description": "A mesh tool with a handle.",
+    "usage": "Used to separate liquids from solids."
+  },
+  "rolling pin": {
+    "visual_description": "A smooth, round cylinder.",
+    "usage": "Used to flatten dough."
+  },
+  "measuring cups": {
+    "visual_description": "Different sized cups with handles.",
+    "usage": "Used to measure dry or liquid ingredients."
+  },
+  "measuring spoons": {
+    "visual_description": "Small spoons of different sizes.",
+    "usage": "Used to measure small amounts of ingredients."
+  },
+  "mixing bowl": {
+    "visual_description": "A deep, round container.",
+    "usage": "Used to mix ingredients."
+  },
+  "can opener": {
+    "visual_description": "A handheld tool with a blade and handle.",
+    "usage": "Used to open cans."
+  },
+  "garlic press": {
+    "visual_description": "A small device with a pressing chamber.",
+    "usage": "Used to crush garlic."
+  },
+  "potato masher": {
+    "visual_description": "A handle with a flat or zigzag base.",
+    "usage": "Used to mash cooked potatoes or vegetables."
+  },
+  "zester": {
+    "visual_description": "A small tool with sharp holes.",
+    "usage": "Used to scrape fine pieces of citrus peel."
+  },
+  "meat tenderizer": {
+    "visual_description": "A small hammer with textured ends.",
+    "usage": "Used to soften meat."
+  },
+  "kitchen scale": {
+    "visual_description": "A flat surface with a weight display.",
+    "usage": "Used to weigh food."
+  },
+  "blender": {
+    "visual_description": "A tall container with spinning blades.",
+    "usage": "Used to blend or puree food and drinks."
+  },
+  "toaster": {
+    "visual_description": "A small appliance with slots on top.",
+    "usage": "Used to toast bread."
+  },
+  "kettle": {
+    "visual_description": "A pot or appliance with a spout.",
+    "usage": "Used to boil water."
+  },
+  "microwave": {
+    "visual_description": "A box-shaped appliance with a door.",
+    "usage": "Used to quickly heat food."
+  },
+  "oven mitts": {
+    "visual_description": "Thick padded gloves.",
+    "usage": "Used to protect hands from hot items."
+  },
+  "spoon": {
+    "visual_description": "A utensil with a small bowl at one end.",
+    "usage": "Used for eating or serving food."
+  },
+  "fork": {
+    "visual_description": "A utensil with prongs used for picking up food",
+    "usage": "Used for eating food, especially replacing chopsticks for certain dishes"
+  },
+  "chopsticks": {
+    "visual_description": "Two thin sticks, usually wooden.",
+    "usage": "Used for eating food, especially in Asian cuisine."
+  },
+  "plate": {
+    "visual_description": "A flat dish.",
+    "usage": "Used to serve food."
+  },
+  "bowl": {
+    "visual_description": "A deep round dish.",
+    "usage": "Used to hold soup, cereal, or other foods."
+  },
+  "cup": {
+    "visual_description": "A small container with a handle.",
+    "usage": "Used for drinking drinks."
+  },
+  "glass": {
+    "visual_description": "A transparent cup made of glass.",
+    "usage": "Used for drinking cold drinks, wine, champagne, and juice"
+  },
+  "straw": {
+    "visual_description": "A small tube.",
+    "usage": "Used to drink liquids."
+  },
+  "napkin": {
+    "visual_description": "A small piece of cloth or paper.",
+    "usage": "Used to wipe hands and mouth."
+  },
+  "tray": {
+    "visual_description": "A flat surface with raised edges.",
+    "usage": "Used to carry food or drinks."
+  },
+  "pressure cooker": {
+    "visual_description": "A sealed pot with a locking lid.",
+    "usage": "Used to cook food quickly under pressure."
+  },
+  "rice cooker": {
+    "visual_description": "An electric pot with a lid.",
+    "usage": "Used to cook rice automatically."
+  },
+  "slow cooker": {
+    "visual_description": "A pot inside a heating base.",
+    "usage": "Used to cook food slowly over several hours."
+  },
+  "sandwich maker": {
+    "visual_description": "A heated appliance with closing plates.",
+    "usage": "Used to toast and seal sandwiches."
+  },
+  "dish soap": {
+    "visual_description": "Liquid soap in a bottle.",
+    "usage": "Used to wash dishes."
+  },
+  "bottle": {
+    "visual_description": "A container with a narrow neck.",
+    "usage": "Used to store liquids."
+  },
+  "sponge": {
+    "visual_description": "A soft, absorbent cleaning tool.",
+    "usage": "Used to wash dishes."
+  },
+  "dish rack": {
+    "visual_description": "A stand with slots and space for dishes.",
+    "usage": "Used to dry dishes after washing."
+  },
+  "trash bin": {
+    "visual_description": "A container with a lid or open top.",
+    "usage": "Used to hold garbage."
+  },
+  "food container": {
+    "visual_description": "A box with a lid.",
+    "usage": "Used to store leftover food."
+  },
+  "cling film": {
+    "visual_description": "A thin, clear plastic wrap.",
+    "usage": "Used to cover and protect food."
+  },
+  "foil": {
+    "visual_description": "A thin sheet of shiny metal.",
+    "usage": "Used to wrap or cover food."
+  },
+  "ziplock bag": {
+    "visual_description": "A plastic bag with a sealing strip.",
+    "usage": "Used to store and seal food."
+  },
+  "sofa": {
+    "visual_description": "A long, cushioned seat with a backrest.",
+    "usage": "Used for sitting and relaxing."
+  },
+  "table": {
+    "visual_description": "A flat surface supported by legs.",
+    "usage": "Used to hold drinks, snacks, or other items."
+  },
+  "television": {
+    "visual_description": "A screen for watching shows and movies.",
+    "usage": "Used for entertainment."
+  },
+  "remote control": {
+    "visual_description": "A handheld device with buttons.",
+    "usage": "Used to control the television and other devices."
+  },
+  "lamp": {
+    "visual_description": "A light fixture with a bulb and shade.",
+    "usage": "Used to light up a room."
+  },
+  "curtains": {
+    "visual_description": "Long fabric panels hanging from a rod.",
+    "usage": "Used to block light and add privacy."
+  },
+  "rug": {
+    "visual_description": "A piece of thick fabric on the floor.",
+    "usage": "Used to add comfort and decoration."
+  },
+  "armchair": {
+    "visual_description": "A single cushioned seat with armrests.",
+    "usage": "Used for comfortable seating."
+  },
+  "plants": {
+    "visual_description": "Potted green or flowering plants.",
+    "usage": "Used to add freshness and decoration."
+  },
+  "speaker": {
+    "visual_description": "Speakers and controls for playing music.",
+    "usage": "Used to play music or enhance TV sound."
+  },
+  "bookcase": {
+    "visual_description": "A tall piece with open shelves.",
+    "usage": "Used to store books and display items."
+  },
+  "shoe rack": {
+    "visual_description": "A stand or shelf for shoes.",
+    "usage": "Used to organize and store shoes."
+  },
+  "bed": {
+    "visual_description": "A frame with a mattress, pillows, and bedding.",
+    "usage": "Used for sleeping."
+  },
+  "pillow": {
+    "visual_description": "A soft cushion for the head.",
+    "usage": "Used for comfort while sleeping."
+  },
+  "blanket": {
+    "visual_description": "A large piece of fabric for warmth.",
+    "usage": "Used to cover yourself while resting."
+  },
+  "bedsheet": {
+    "visual_description": "A piece of fabric covering the mattress.",
+    "usage": "Used for comfort and cleanliness."
+  },
+  "wardrobe": {
+    "visual_description": "A tall cupboard with doors.",
+    "usage": "Used to store clothes."
+  },
+  "clothes hanger": {
+    "visual_description": "A shaped piece of plastic, wood, or metal.",
+    "usage": "Used to hang clothes."
+  },
+  "mirror": {
+    "visual_description": "A flat reflective surface.",
+    "usage": "Used to see your reflection."
+  },
+  "alarm clock": {
+    "visual_description": "A small clock with an alarm feature.",
+    "usage": "Used to wake up at a set time."
+  },
+  "bedside table": {
+    "visual_description": "A small table next to the bed.",
+    "usage": "Used to hold a lamp, alarm clock, or small items."
+  },
+  "dresser": {
+    "visual_description": "A low piece of furniture with drawers.",
+    "usage": "Used to store folded clothes and accessories."
+  },
+  "desk": {
+    "visual_description": "A table mostly made of wood.",
+    "usage": "Used for doing some work leaving a computer and other objects on it."
+  },
+  "towel": {
+    "visual_description": "A cloth used for drying",
+    "usage": "Used to dry hands or other wet surfaces"
+  },
+  "toothbrush": {
+    "visual_description": "A small brush with a handle.",
+    "usage": "Used to clean teeth."
+  },
+  "toothpaste": {
+    "visual_description": "A paste in a tube.",
+    "usage": "Used with a toothbrush to clean teeth."
+  },
+  "soap": {
+    "visual_description": "A bar or liquid used for cleaning",
+    "usage": "Used to cleanse hands or other surfaces"
+  },
+  "shampoo": {
+    "visual_description": "A liquid cleaner for hair.",
+    "usage": "Used to wash hair."
+  },
+  "toilet paper": {
+    "visual_description": "A roll of soft paper.",
+    "usage": "Used for cleaning after using the toilet."
+  },
+  "toilet brush": {
+    "visual_description": "A brush with a long handle.",
+    "usage": "Used to clean the toilet."
+  },
+  "shower curtain": {
+    "visual_description": "A waterproof sheet.",
+    "usage": "Used to keep water inside the shower."
+  },
+  "bath mat": {
+    "visual_description": "A small mat for the floor.",
+    "usage": "Used to dry feet after bathing."
+  },
+  "storage shelf": {
+    "visual_description": "A shelf for holding items.",
+    "usage": "Used to store toiletries and bathroom supplies."
+  },
+  "washing machine": {
+    "visual_description": "A large machine with a drum inside.",
+    "usage": "Used to wash clothes with water and soap."
+  },
+  "laundry basket": {
+    "visual_description": "A container with handles.",
+    "usage": "Used to hold dirty clothes."
+  },
+  "sink": {
+    "visual_description": "A basin with a faucet for water",
+    "usage": "Used for washing hands or other items"
+  },
+  "faucet": {
+    "visual_description": "A device that controls water flow.",
+    "usage": "Used to turn water on and off."
+  },
+  "shower": {
+    "visual_description": "A fixture that sprays water from above.",
+    "usage": "Used to wash the body while standing."
+  },
+  "socket": {
+    "visual_description": "A wall fitting with holes for a plug.",
+    "usage": "Used to connect electrical devices to power."
+  },
+  "light switch": {
+    "visual_description": "A small switch on the wall.",
+    "usage": "Used to turn lights on and off."
+  },
+  "light bulb": {
+    "visual_description": "A glass bulb that produces light.",
+    "usage": "Used to light up a room."
+  },
+  "extension cord": {
+    "visual_description": "A long cord with multiple outlets.",
+    "usage": "Used to power devices from a distance."
+  },
+  "power strip": {
+    "visual_description": "A block with several sockets and a cord.",
+    "usage": "Used to plug in multiple devices at once."
+  },
+  "charger": {
+    "visual_description": "A device with a plug and cable.",
+    "usage": "Used to charge phones, laptops, or other electronics."
+  },
+  "flashlight": {
+    "visual_description": "A handheld light powered by batteries.",
+    "usage": "Used to see in the dark."
+  },
+  "batteries": {
+    "visual_description": "Small objects that store power.",
+    "usage": "Used to run portable devices."
+  },
+  "fan": {
+    "visual_description": "A device with spinning blades.",
+    "usage": "Used to move air and keep cool."
+  },
+  "heater": {
+    "visual_description": "A device that produces heat.",
+    "usage": "Used to warm a room."
+  },
+  "air conditioner": {
+    "visual_description": "A device that blows cold air.",
+    "usage": "Used to cool a room."
+  },
+  "refrigerator": {
+    "visual_description": "A large appliance with compartments for storing food at low temperatures",
+    "usage": "Used to keep food fresh by maintaining a cold environment"
+  },
+  "food storage containers": {
+    "visual_description": "Containers made of plastic, glass, or metal with lids for storing food",
+    "usage": "Used to store leftovers and other food items to keep them fresh for longer periods"
+  },
+  "music": {
+    "visual_description": "Musical notes and instruments",
+    "usage": "Used for listening, entertainment, and relaxation"
+  }
+}

@@ -1,0 +1,21 @@
+# Core ML / DL
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.44.0
+sentence-transformers>=2.2.2
+ultralytics>=8.0.196   # for YOLOv8/YOLO-World
+
+# OpenAI API
+openai>=1.40.0
+
+# Utilities
+opencv-python>=4.9.0
+numpy>=1.26.0
+tqdm>=4.66.0
+
+# Visualization / Debugging
+matplotlib>=3.7.1
+
+# Optional (to ensure JSON and logging smoothness)
+orjson>=3.9.10
+rich>=13.7.0
